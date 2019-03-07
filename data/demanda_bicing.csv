@@ -1,7 +1,3 @@
-Demanda del servei de Bicing
-Nombre de viatges efectuats amb el servei de bicicletes públiques Bicing
-Unitats: Viatges
-
 Anys;Mes;Valor
 2007;Anual;3781855
 2007;Gener;0
@@ -153,8 +149,3 @@ Anys;Mes;Valor
 2018;Maig;1252756
 2018;Juny;1248458
 2018;Juliol;1194864
-
-
-Font: Ajuntament de Barcelona, Bicing.
-Última actualització: 2018-09-07
-SIMBA;http://iermbdb.uab.cat?ap=0&id_ind=1523

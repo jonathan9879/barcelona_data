@@ -1,7 +1,3 @@
-Emissions de contaminants locals derivades de la mobilitat per municipis
-Emissions dels contaminants locals diòxid de nitrogen (NO2) i partícules en suspensió (PM10) derivades de la mobilitat als municipis de l'AMB i els districtes de Barcelona
-Unitats: Tones/any.
-
 Àmbits;Anys;Contaminant;Valor
 Badalona;2012;Emissions de NO2;121
 Badalona;2012;Emissions de PM;38
@@ -95,8 +91,3 @@ Sant Andreu;2012;Emissions de NO2;103
 Sant Andreu;2012;Emissions de PM;32
 Sant Martí;2012;Emissions de NO2;137
 Sant Martí;2012;Emissions de PM;42
-
-
-Font: IERMB a partir de dades d’MCRIT i de l’Institut Cerdà.
-Última actualització: 2017-06-06
-SIMBA;http://iermbdb.uab.cat?ap=0&id_ind=1920
